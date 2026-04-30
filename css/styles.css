@@ -2,7 +2,18 @@
 
 body {
     font-family: Arial;
+    background-color: #f4f4f4;
 }
+
+h2 {
+  color: darkblue;
+}
+
+.card {
+  background: white;
+  border-radius: 5px;
+}
+
 
 /* HEADER */
 header {
